@@ -7,4 +7,4 @@
 - ⚡ Fun fact: “My perfect day would start with cofee and end with coffee.”...
 
 ![LJ's github stats](https://github-readme-stats.vercel.app/api?username=lfigueras&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfigueras)](https://github.com/lfigueras/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfigueras&layout=compact)](https://github.com/lfigueras/github-readme-stats)
