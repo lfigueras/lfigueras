@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am an Android and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m curerntly working as an Android/Software Engineer and contributing to frontend for building mobile applications.
+- :telescope: I’m currently working as an Android/Software Engineer and contributing to frontend for building mobile applications.
 
 - :seedling: Exploring AWS Cloud Computing.
 
