@@ -5,7 +5,5 @@
 
 
 
-<div id="header" align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfigueras&layout=compact)](https://github.com/lfigueras/github-readme-stats)
- 
-</div>
+
