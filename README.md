@@ -26,6 +26,10 @@ I am an Android and Web Developer <img src="https://media.giphy.com/media/WUlplc
 - :zap: In my free time, I study more about android development, play online games and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lfigueras-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lovely-joy-figueras))
+
+- 💡:  What I'm planning to study?
+    React Native (Mobile Apps) 📱
+    React JS (Desktop Apps) 💻
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
