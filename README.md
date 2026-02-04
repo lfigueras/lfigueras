@@ -17,22 +17,6 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am an Android and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m currently working as an Android/Software Engineer and contributing to frontend for building mobile applications.
-
-- :seedling: Exploring AWS Cloud Computing.
-
-- :zap: In my free time, I study more about android development, play online games and read tech articles.
-
-- 💡  What I'm planning to study?
-    React Native (Mobile Apps) 📱
-    React JS (Desktop Apps) 💻
-    
-    
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lfigueras-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lovely-joy-figueras))
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
